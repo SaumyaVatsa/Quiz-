@@ -59,7 +59,7 @@ h1{
     margin-left: 5px;
 }
 
-#submit{
+.submit{
     position: absolute;
     font-weight: bold;
     width: 42.7%;
@@ -73,7 +73,7 @@ h1{
     border-radius: 0 0 10px 10px;   
 }
 
-#submit:hover{
+.submit:hover{
     background-color: aliceblue;
     color: #0D4C92;
 }
